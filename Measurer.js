@@ -86,7 +86,7 @@ var Measurer = function (evt, dragdrop) {
 
                         info = document.createElement('div');
 
-                        info.style.cssText = 'font: 12px Arial; padding: 3px; position: absolute; top: 100%; left: 100%; background-color: #C4ECFF; width: 45px; height: auto; border: solid 1px #aaa; cursor: crosshair';
+                        info.style.cssText = 'font: 12px Arial; padding: 3px; position: absolute; top: 100%; left: 100%; background-color: #C4ECFF; width: 55px; height: auto; border: solid 1px #aaa; cursor: crosshair';
                         info.appendChild(document.createTextNode('\xA0'));
 
                         tool.appendChild(info);
