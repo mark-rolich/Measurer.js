@@ -4,7 +4,7 @@ Measurer.js
 Measurer.js is a Javascript package allowing 
 to measure dimensions of the objects on html page
 
-Demo is available at http://mark-rolich.github.com/Measurer.js
+Demo is available at http://mark-rolich.github.io/Measurer.js
 
 Measurer.js requires Event.js and Dragdrop.js packages, which can be acquired at the following links:
 
